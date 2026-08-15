@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ravikumargupta03/Leetcode/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/ravikumargupta03/Leetcode/tree/master/0086-partition-list) |
 ## Sorting
 |  |
 | ------- |
@@ -33,4 +34,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ravikumargupta03/Leetcode/tree/master/0075-sort-colors) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/ravikumargupta03/Leetcode/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
