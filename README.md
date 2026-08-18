@@ -42,6 +42,7 @@
 | [0086-partition-list](https://github.com/ravikumargupta03/Leetcode/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/ravikumargupta03/Leetcode/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/ravikumargupta03/Leetcode/tree/master/0147-insertion-sort-list) |
+| [0328-odd-even-linked-list](https://github.com/ravikumargupta03/Leetcode/tree/master/0328-odd-even-linked-list) |
 ## Stack
 |  |
 | ------- |
