@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ravikumargupta03/Leetcode/tree/master/0075-sort-colors) |
+| [0147-insertion-sort-list](https://github.com/ravikumargupta03/Leetcode/tree/master/0147-insertion-sort-list) |
 ## Quicksort
 |  |
 | ------- |
@@ -38,4 +39,5 @@
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/ravikumargupta03/Leetcode/tree/master/0086-partition-list) |
+| [0147-insertion-sort-list](https://github.com/ravikumargupta03/Leetcode/tree/master/0147-insertion-sort-list) |
 <!---LeetCode Topics End-->
