@@ -22,6 +22,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/ravikumargupta03/Leetcode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/ravikumargupta03/Leetcode/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/ravikumargupta03/Leetcode/tree/master/0143-reorder-list) |
 ## Sorting
 |  |
 | ------- |
@@ -39,5 +40,14 @@
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/ravikumargupta03/Leetcode/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/ravikumargupta03/Leetcode/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/ravikumargupta03/Leetcode/tree/master/0147-insertion-sort-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/ravikumargupta03/Leetcode/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/ravikumargupta03/Leetcode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
