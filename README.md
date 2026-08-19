@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/ravikumargupta03/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/ravikumargupta03/Leetcode/tree/master/0392-is-subsequence) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ravikumargupta03/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -25,6 +26,7 @@
 | [0086-partition-list](https://github.com/ravikumargupta03/Leetcode/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/ravikumargupta03/Leetcode/tree/master/0143-reorder-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ravikumargupta03/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/ravikumargupta03/Leetcode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -53,4 +55,8 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/ravikumargupta03/Leetcode/tree/master/0143-reorder-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/ravikumargupta03/Leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
