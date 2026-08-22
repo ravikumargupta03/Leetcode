@@ -59,4 +59,8 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/ravikumargupta03/Leetcode/tree/master/0392-is-subsequence) |
+## Math
+|  |
+| ------- |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ravikumargupta03/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 <!---LeetCode Topics End-->
