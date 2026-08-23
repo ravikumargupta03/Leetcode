@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ravikumargupta03/Leetcode/tree/master/0075-sort-colors) |
+| [0137-single-number-ii](https://github.com/ravikumargupta03/Leetcode/tree/master/0137-single-number-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,4 +64,8 @@
 |  |
 | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ravikumargupta03/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/ravikumargupta03/Leetcode/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
