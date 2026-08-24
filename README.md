@@ -21,6 +21,7 @@
 | [0075-sort-colors](https://github.com/ravikumargupta03/Leetcode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ravikumargupta03/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0137-single-number-ii](https://github.com/ravikumargupta03/Leetcode/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/ravikumargupta03/Leetcode/tree/master/0152-maximum-product-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/ravikumargupta03/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/ravikumargupta03/Leetcode/tree/master/0392-is-subsequence) |
 ## Math
 |  |
